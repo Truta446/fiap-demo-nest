@@ -1,1 +1,4 @@
-export class User {}
+export class User {
+  public email: string;
+  public name: string;
+}
